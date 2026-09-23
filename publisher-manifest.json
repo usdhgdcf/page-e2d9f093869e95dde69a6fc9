@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "3e60fe90fdc928750d110579",
+  "owner": "usdhgdcf",
+  "repo": "page-e2d9f093869e95dde69a6fc9",
+  "title": "众筹加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e2d9f093869e95dde69a6fc9",
+      "a": "众筹加速",
+      "b": "2027最新官网",
+      "entity": "众筹加速",
+      "brand": "众筹加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9576da3cb8333a5330ab8a16e68a6ab6fc8907a4692fd4eea987f0273f44ac58",
+      "content": {
+        "primary_entity": "众筹加速",
+        "keyword1": "众筹加速",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，再导入订阅链接使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选好套餐，即可开始配置订阅。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_DESCRIPTION": "，众筹加速提供基础版、旗舰版与团队版三档套餐，月付与年付均可选，适合不同设备数量与流量需求的用户。基础版每月 100GB 流量、支持 3 台设备，旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线游戏加速优化，团队版每月 1000GB、支持 20 台设备与专属客户经理服务。按年付可节省两个月左右费用，可在客户端导入订阅后开始使用。",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量到计费周期，按实际使用场景挑选。",
+          "AI_FEATURES_TITLE": "套餐与设备适配要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合轻度浏览与基础流媒体；旗舰版每月 300GB、5 台设备，含 IPLC 专线，适合游戏与高清视频。",
+          "AI_FEATURE_TEXT_2": "团队版每月 1000GB、20 台设备，提供 VIP 专属高带宽节点，适合小团队协作或家庭多设备共享。",
+          "AI_FEATURE_TEXT_3": "三档均支持按月或按年付费，年付价格约为月付的十个月费用，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "按场景选版本",
+          "AI_FEATURE_TITLE_3": "计费周期灵活",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到客户端配置的流程。",
+          "AI_GUIDE_TITLE": "订阅配置三步走",
+          "AI_HERO_INTRO": "众筹加速提供多档海外网络加速套餐，按设备数量与流量需求分层，支持月付与年付。可在对应客户端导入订阅链接，用于日常浏览、流媒体与游戏加速场景。",
+          "AI_HERO_SUBTITLE": "多档套餐匹配不同设备需求",
+          "AI_HIGHLIGHT_1": "三档套餐，月付年付可选",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏专线",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版均衡性能与价格，团队版面向多设备共享。对比流量、设备数与专线权益，按需选择。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据设备数量、每月流量与是否需要游戏专线，从基础版、旗舰版、团队版中选定一档适合的套餐。",
+          "AI_STEP_TEXT_2": "确认设备系统与套餐支持的在线设备数，查看对应客户端是否满足当前使用环境。",
+          "AI_STEP_TEXT_3": "在所选客户端中导入订阅链接，按客户端文档完成配置后即可连接使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "众筹加速套餐一览",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。先看同时在线设备数和月流量需求，再选对应档位即可。",
+          "AI_FAQ_ANSWER_2": "基础版适合 3 台以内设备、月流量 100GB 左右的个人使用；旗舰版适合 5 台设备、需要 IPLC 专线游戏加速的场景；团队版适合 20 台设备、1000GB 流量及企业定制路由需求。",
+          "AI_FAQ_ANSWER_3": "年付相比月付有明显节省，基础版按年付 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于约十个月月付价格，适合确定长期使用的用户。",
+          "AI_FAQ_ANSWER_4": "Windows 用 Clash Verge 或 v2rayN，macOS 用 ClashX Meta 或 Stash，iOS 用 Shadowrocket 或 Stash，Android 用 Clash Meta for Android 或 v2rayNG。导入订阅后按客户端文档完成配置即可。",
+          "AI_FAQ_ANSWER_5": "套餐主要区别在流量额度、设备数量和节点类型。旗舰版独有 IPLC 专线游戏加速优化，团队版独有 VIP 专属高带宽节点、企业定制路由与专属客户经理。",
+          "AI_FAQ_INTRO": "套餐选择、设备数量与订阅配置。",
+          "AI_FAQ_QUESTION_1": "各个套餐的流量和设备数量有什么区别？",
+          "AI_FAQ_QUESTION_2": "如何判断自己适合哪一档套餐？",
+          "AI_FAQ_QUESTION_3": "按年付划算吗？",
+          "AI_FAQ_QUESTION_4": "不同设备应该选哪个客户端？",
+          "AI_FAQ_QUESTION_5": "旗舰版和团队版多了哪些权益？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tengyunjc.com",
+    "host": "tengyunjc.com"
+  },
+  "file_hashes": {
+    "index.html": "4ba861dc1daded27a3d0a1e4a534ec120ecb51146ec4c038edb0bd3d12e6b895",
+    "sitemap.xml": "ec1dd8ca3612b64cdfc168bb39daa865ee1a674721fa017f5eac9814dfe71666",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f2566dccd3b06edba5938343d5a299a420cacd67d29eb0826d1ad4cf8946991c",
+    "robots.txt": "ddee92caebb411892ada069e6da0960c07ae7beaaaae98c0836b3c6aaf047149",
+    "ac8f48dac8224cb479f3c4ce0a4b154d.txt": "f63518068b9db88d70b0c254335269320fbf4eab0acb6cf07cb2ba6c4e5a76ed"
+  },
+  "revision": "6982d2c6c815915fb67d158aef7269b8192db4058af78875043c7b31d4baf57b"
+}
